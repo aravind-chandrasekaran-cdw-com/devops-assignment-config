@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: sample-fastapi-app
-        image: aravindnys/sample-fastapi-app:5f8cdb7c
+        image: aravindnys/sample-fastapi-app:3111b6f4
         ports:
           - containerPort: 3000
         resources:
